@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fab-souza
-- 👀 I’m interested in games, editing videos and recently to change my career to the tech area
-- 🌱 I’m currently learning Python
+- 👋 Oi gente. Tudo certo? Me chamo Fabiana, mas podem me chamar de Fab
+- 👀 Meus principais hobbies são jogar video-games, ler livros e fazer caminhadas
+- 🌱 Eu estudei C na faculdade, mas atualmente eu estou estudando Python
 - 💞️ I’m looking to collaborate on helping those who are taking their first steps in this area and improve my network
-- 📫 How to reach me ... I don't have instagram or twitter, but when my Linkedin is ready, I'll update this part.
+- 📫 Eu não tenho Twiter e Insta, mas é só procurar por Fabiana de Souza no LinkedIn 
 
 <div align="center">
   <a href="https://github.com/fab-souza">
