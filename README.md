@@ -1,7 +1,7 @@
 - 👋 Oi gente. Tudo certo? Me chamo Fabiana, mas podem me chamar de Fab
-- 👀 Meus principais hobbies são jogar video-games, ler livros e fazer caminhadas
+- 👀 Eu gosto de jogar video-games, ler livros e fazer caminhadas
 - 🌱 Eu estudei C na faculdade, mas atualmente eu estou estudando Python
-- 💞️ I’m looking to collaborate on helping those who are taking their first steps in this area and improve my network
+- 💞️ Sou graduada em engenharia elétrica, mas estou em processo de transição para a área tech
 - 📫 Eu não tenho Twiter e Insta, mas é só procurar por Fabiana de Souza no LinkedIn 
 
 <div align="center">
