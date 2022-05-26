@@ -1,6 +1,4 @@
-<div align="center">
 ![dev-girl](https://user-images.githubusercontent.com/67301805/170592993-1b60f7f8-1933-40cb-9abc-83f0ebb2b21b.gif)
-</div>
 
 - 👋 Oi gente, tudo certo? Me chamo Fabiana, mas podem me chamar de Fab
 - 👀 Eu gosto de jogar video-games, ler livros e fazer caminhadas
