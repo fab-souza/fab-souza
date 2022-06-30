@@ -5,7 +5,7 @@
 - 👀 Eu gosto de jogar video-games, ler livros e cultura pop
 - 🌱 Eu estudei C na faculdade, mas atualmente eu estou estudando Python
 - 💞️ Sou bacharel em engenharia elétrica, mas estou em processo de migração para a área tech
-- 📫 Eu não tenho Twiter nem Insta (^^;
+- 📫 Eu não tenho Twitter nem Insta (^^;
 
 <div align="center">
   <a href="https://github.com/fab-souza">
