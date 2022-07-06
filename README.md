@@ -1,10 +1,10 @@
 <div align="center">
-  <img width=74% src="https://user-images.githubusercontent.com/67301805/177616387-dd6e6c30-16c8-482e-8eb0-95ff7be3b0d5.gif" alt="Hello there"/>
+  <img width=73% src="https://user-images.githubusercontent.com/67301805/177616387-dd6e6c30-16c8-482e-8eb0-95ff7be3b0d5.gif" alt="Hello there"/>
   <img width=22% src="https://user-images.githubusercontent.com/67301805/170592993-1b60f7f8-1933-40cb-9abc-83f0ebb2b21b.gif"/>
 </div>
 
 - 👋 Tudo certo? Me chamo Fabiana, mas podem me chamar de Fab
-- 👀 Eu gosto de jogar video-games, ler livros e cultura pop
+- 👀 Eu gosto de jogar video-games, ler livros e praticar esporte
 - 🌱 Eu estudei C na faculdade, mas atualmente eu estou estudando Python
 - 💞️ Sou bacharel em engenharia elétrica, mas estou em processo de migração para a área tech
 - 📫 Eu não tenho Twitter nem Insta (^^; mas...
