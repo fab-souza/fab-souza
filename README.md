@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/67301805/170592993-1b60f7f8-1933-40cb-9abc-83f0ebb2b21b.gif>
+  <img src="https://user-images.githubusercontent.com/67301805/170592993-1b60f7f8-1933-40cb-9abc-83f0ebb2b21b.gif">
 </p>
 
 - 👋 Oi gente, tudo certo? Me chamo Fabiana, mas podem me chamar de Fab
