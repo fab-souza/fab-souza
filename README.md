@@ -1,6 +1,8 @@
 # Hello there
 
-![github-gif](https://user-images.githubusercontent.com/67301805/177616387-dd6e6c30-16c8-482e-8eb0-95ff7be3b0d5.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67301805/177616387-dd6e6c30-16c8-482e-8eb0-95ff7be3b0d5.gif" alt="Hello there">
+</p>
 
 ![dev-girl](https://user-images.githubusercontent.com/67301805/170592993-1b60f7f8-1933-40cb-9abc-83f0ebb2b21b.gif)
 
