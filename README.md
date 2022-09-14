@@ -5,10 +5,10 @@
 
 <br>
 
-- 👋 Tudo certo? Me chamo Fabiana, mas podem me chamar de Fab
-- 👀 Eu gosto de jogar video-games, ler livros e praticar esporte
-- 🌱 Eu estudei C na faculdade, mas atualmente eu estou estudando Python
-- 💞️ Sou bacharel em engenharia elétrica, mas estou em processo de migração para a área tech
+- 👋 E aí, como vai? Me chamo Fabiana, mas pode me chamar de Fab
+- 👀 Eu gosto de jogar video-game e ler livros nas horas vagas
+- 🌱 Eu estudei C na faculdade, que não me encantou muito, e atualmente meu foco está em Python para análise de dados
+- 💞️ Sou bacharel em engenharia elétrica em processo de migração de carreira
 - 📫 Eu não tenho Twitter nem Insta (^^; mas...
 
 <h3 align="left">Connect with me:</h3>
