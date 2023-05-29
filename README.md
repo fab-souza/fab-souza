@@ -13,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/fabianadesouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/fabianadesouza" height="30" width="40" /></a>
+  <a href="https://kaggle.com/fabianadesouza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/fabianadesouza" height="30" width="30" /></a>
+  <a href="https://medium.com/@1fabiana-souza" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="https://www.kaggle.com/fabianadesouza" height="45" width="45" /></a>
 </p>
 
 <div align="left">
